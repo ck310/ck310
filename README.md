@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ck310
+- 👋 Hi, I’m Karthika.
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning programming
 <!---
